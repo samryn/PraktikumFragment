@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PraktikumFragment</string>
+    <string name="tab_text_1">Input</string>
+    <string name="tab_text_2">Output</string>
+</resources>
